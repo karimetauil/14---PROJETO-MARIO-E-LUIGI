@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto ------------------------ simula uma landing page de uma empresa de --------------------, onde é possível verificar todos os serviços prestados, há um breve relato sobre a mesma, e também consta um formulário com a possibilidade de fazer contatos com o responsáveis.
+O Projeto Mario e Luigi simula uma landing page de uma empresa de --------------------, onde é possível verificar todos os serviços prestados, há um breve relato sobre a mesma, e também consta um formulário com a possibilidade de fazer contatos com o responsáveis.
 
 ## s2 Funcionalidades
 
