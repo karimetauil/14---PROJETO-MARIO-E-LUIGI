@@ -1,6 +1,6 @@
 <h1 align="center">Mario e Luigi</h1>
 
-<h4 align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Alura<a href="https://--------------------" target="_blank">Alura</a> </h4>
+<h4 align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela <a href="https://--------------------" target="_blank">Alura</a> </h4>
 
 <br>
 
